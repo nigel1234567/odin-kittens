@@ -1,3 +1,5 @@
+This project is part of The Odin Project Ruby on Rails curriculum. This app was built for creating basic API.
+
 # README
 
 This README would normally document whatever steps are necessary to get the
