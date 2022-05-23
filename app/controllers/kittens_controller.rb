@@ -13,6 +13,7 @@ class KittensController < ApplicationController
       format.html
       format.json { render :json => @kitten }
       format.xml { render :xml => @kitten }
+    end
   end
 
   # GET /kittens/new
